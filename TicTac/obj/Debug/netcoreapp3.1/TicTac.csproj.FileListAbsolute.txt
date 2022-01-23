@@ -1,0 +1,10 @@
+C:\Users\ELAHE\source\repos\WebApplication2\TicTac\bin\Debug\netcoreapp3.1\TicTac.deps.json
+C:\Users\ELAHE\source\repos\WebApplication2\TicTac\bin\Debug\netcoreapp3.1\TicTac.dll
+C:\Users\ELAHE\source\repos\WebApplication2\TicTac\bin\Debug\netcoreapp3.1\TicTac.pdb
+C:\Users\ELAHE\source\repos\WebApplication2\TicTac\obj\Debug\netcoreapp3.1\TicTac.csproj.AssemblyReference.cache
+C:\Users\ELAHE\source\repos\WebApplication2\TicTac\obj\Debug\netcoreapp3.1\TicTac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELAHE\source\repos\WebApplication2\TicTac\obj\Debug\netcoreapp3.1\TicTac.AssemblyInfoInputs.cache
+C:\Users\ELAHE\source\repos\WebApplication2\TicTac\obj\Debug\netcoreapp3.1\TicTac.AssemblyInfo.cs
+C:\Users\ELAHE\source\repos\WebApplication2\TicTac\obj\Debug\netcoreapp3.1\TicTac.csproj.CoreCompileInputs.cache
+C:\Users\ELAHE\source\repos\WebApplication2\TicTac\obj\Debug\netcoreapp3.1\TicTac.dll
+C:\Users\ELAHE\source\repos\WebApplication2\TicTac\obj\Debug\netcoreapp3.1\TicTac.pdb

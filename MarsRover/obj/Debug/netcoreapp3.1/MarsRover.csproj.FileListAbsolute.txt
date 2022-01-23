@@ -1,0 +1,10 @@
+C:\Users\ELAHE\source\repos\WebApplication2\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.deps.json
+C:\Users\ELAHE\source\repos\WebApplication2\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.dll
+C:\Users\ELAHE\source\repos\WebApplication2\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.pdb
+C:\Users\ELAHE\source\repos\WebApplication2\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELAHE\source\repos\WebApplication2\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.AssemblyInfoInputs.cache
+C:\Users\ELAHE\source\repos\WebApplication2\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.AssemblyInfo.cs
+C:\Users\ELAHE\source\repos\WebApplication2\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csproj.CoreCompileInputs.cache
+C:\Users\ELAHE\source\repos\WebApplication2\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.dll
+C:\Users\ELAHE\source\repos\WebApplication2\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.pdb
+C:\Users\ELAHE\source\repos\WebApplication2\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csproj.AssemblyReference.cache

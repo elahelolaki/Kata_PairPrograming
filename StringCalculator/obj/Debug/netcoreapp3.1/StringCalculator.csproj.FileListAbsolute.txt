@@ -1,0 +1,10 @@
+C:\Users\ELAHE\source\repos\WebApplication2\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.deps.json
+C:\Users\ELAHE\source\repos\WebApplication2\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.dll
+C:\Users\ELAHE\source\repos\WebApplication2\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.pdb
+C:\Users\ELAHE\source\repos\WebApplication2\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELAHE\source\repos\WebApplication2\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\ELAHE\source\repos\WebApplication2\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.AssemblyInfo.cs
+C:\Users\ELAHE\source\repos\WebApplication2\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ELAHE\source\repos\WebApplication2\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.dll
+C:\Users\ELAHE\source\repos\WebApplication2\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.pdb
+C:\Users\ELAHE\source\repos\WebApplication2\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.csproj.AssemblyReference.cache

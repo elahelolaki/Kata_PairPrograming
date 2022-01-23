@@ -1,0 +1,10 @@
+C:\Users\ELAHE\source\repos\WebApplication2\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.deps.json
+C:\Users\ELAHE\source\repos\WebApplication2\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.dll
+C:\Users\ELAHE\source\repos\WebApplication2\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.pdb
+C:\Users\ELAHE\source\repos\WebApplication2\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELAHE\source\repos\WebApplication2\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfoInputs.cache
+C:\Users\ELAHE\source\repos\WebApplication2\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfo.cs
+C:\Users\ELAHE\source\repos\WebApplication2\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\ELAHE\source\repos\WebApplication2\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.dll
+C:\Users\ELAHE\source\repos\WebApplication2\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.pdb
+C:\Users\ELAHE\source\repos\WebApplication2\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csproj.AssemblyReference.cache

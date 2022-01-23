@@ -1,0 +1,10 @@
+C:\Users\ELAHE\source\repos\WebApplication2\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+C:\Users\ELAHE\source\repos\WebApplication2\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\ELAHE\source\repos\WebApplication2\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\ELAHE\source\repos\WebApplication2\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELAHE\source\repos\WebApplication2\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\ELAHE\source\repos\WebApplication2\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+C:\Users\ELAHE\source\repos\WebApplication2\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\ELAHE\source\repos\WebApplication2\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\ELAHE\source\repos\WebApplication2\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\ELAHE\source\repos\WebApplication2\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.AssemblyReference.cache

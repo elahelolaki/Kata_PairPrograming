@@ -1,0 +1,10 @@
+C:\Users\ELAHE\source\repos\WebApplication2\GildedRose\bin\Debug\netcoreapp3.1\GildedRose.deps.json
+C:\Users\ELAHE\source\repos\WebApplication2\GildedRose\bin\Debug\netcoreapp3.1\GildedRose.dll
+C:\Users\ELAHE\source\repos\WebApplication2\GildedRose\bin\Debug\netcoreapp3.1\GildedRose.pdb
+C:\Users\ELAHE\source\repos\WebApplication2\GildedRose\obj\Debug\netcoreapp3.1\GildedRose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELAHE\source\repos\WebApplication2\GildedRose\obj\Debug\netcoreapp3.1\GildedRose.AssemblyInfoInputs.cache
+C:\Users\ELAHE\source\repos\WebApplication2\GildedRose\obj\Debug\netcoreapp3.1\GildedRose.AssemblyInfo.cs
+C:\Users\ELAHE\source\repos\WebApplication2\GildedRose\obj\Debug\netcoreapp3.1\GildedRose.csproj.CoreCompileInputs.cache
+C:\Users\ELAHE\source\repos\WebApplication2\GildedRose\obj\Debug\netcoreapp3.1\GildedRose.dll
+C:\Users\ELAHE\source\repos\WebApplication2\GildedRose\obj\Debug\netcoreapp3.1\GildedRose.pdb
+C:\Users\ELAHE\source\repos\WebApplication2\GildedRose\obj\Debug\netcoreapp3.1\GildedRose.csproj.AssemblyReference.cache

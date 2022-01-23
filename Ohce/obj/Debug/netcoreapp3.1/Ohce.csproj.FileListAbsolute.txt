@@ -1,0 +1,10 @@
+C:\Users\ELAHE\source\repos\WebApplication2\Ohce\bin\Debug\netcoreapp3.1\Ohce.deps.json
+C:\Users\ELAHE\source\repos\WebApplication2\Ohce\bin\Debug\netcoreapp3.1\Ohce.dll
+C:\Users\ELAHE\source\repos\WebApplication2\Ohce\bin\Debug\netcoreapp3.1\Ohce.pdb
+C:\Users\ELAHE\source\repos\WebApplication2\Ohce\obj\Debug\netcoreapp3.1\Ohce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELAHE\source\repos\WebApplication2\Ohce\obj\Debug\netcoreapp3.1\Ohce.AssemblyInfoInputs.cache
+C:\Users\ELAHE\source\repos\WebApplication2\Ohce\obj\Debug\netcoreapp3.1\Ohce.AssemblyInfo.cs
+C:\Users\ELAHE\source\repos\WebApplication2\Ohce\obj\Debug\netcoreapp3.1\Ohce.csproj.CoreCompileInputs.cache
+C:\Users\ELAHE\source\repos\WebApplication2\Ohce\obj\Debug\netcoreapp3.1\Ohce.dll
+C:\Users\ELAHE\source\repos\WebApplication2\Ohce\obj\Debug\netcoreapp3.1\Ohce.pdb
+C:\Users\ELAHE\source\repos\WebApplication2\Ohce\obj\Debug\netcoreapp3.1\Ohce.csproj.AssemblyReference.cache

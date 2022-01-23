@@ -1,0 +1,154 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Manhattan/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Manhattan.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Manhattan.dll": {}
+        }
+      },
+      "MarsRover/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MarsRover.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MarsRover.dll": {}
+        }
+      },
+      "Roman/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Roman.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Roman.dll": {}
+        }
+      },
+      "StringCalculator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/StringCalculator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StringCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Manhattan/1.0.0": {
+      "type": "project",
+      "path": "../Manhattan/Manhattan.csproj",
+      "msbuildProject": "../Manhattan/Manhattan.csproj"
+    },
+    "MarsRover/1.0.0": {
+      "type": "project",
+      "path": "../MarsRover/MarsRover.csproj",
+      "msbuildProject": "../MarsRover/MarsRover.csproj"
+    },
+    "Roman/1.0.0": {
+      "type": "project",
+      "path": "../Roman/Roman.csproj",
+      "msbuildProject": "../Roman/Roman.csproj"
+    },
+    "StringCalculator/1.0.0": {
+      "type": "project",
+      "path": "../StringCalculator/StringCalculator.csproj",
+      "msbuildProject": "../StringCalculator/StringCalculator.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Manhattan >= 1.0.0",
+      "MarsRover >= 1.0.0",
+      "Roman >= 1.0.0",
+      "StringCalculator >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ELAHE\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ELAHE\\source\\repos\\WebApplication2\\WebApplication2\\KATA.csproj",
+      "projectName": "KATA",
+      "projectPath": "C:\\Users\\ELAHE\\source\\repos\\WebApplication2\\WebApplication2\\KATA.csproj",
+      "packagesPath": "C:\\Users\\ELAHE\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ELAHE\\source\\repos\\WebApplication2\\WebApplication2\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ELAHE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\ELAHE\\source\\repos\\WebApplication2\\Manhattan\\Manhattan.csproj": {
+              "projectPath": "C:\\Users\\ELAHE\\source\\repos\\WebApplication2\\Manhattan\\Manhattan.csproj"
+            },
+            "C:\\Users\\ELAHE\\source\\repos\\WebApplication2\\MarsRover\\MarsRover.csproj": {
+              "projectPath": "C:\\Users\\ELAHE\\source\\repos\\WebApplication2\\MarsRover\\MarsRover.csproj"
+            },
+            "C:\\Users\\ELAHE\\source\\repos\\WebApplication2\\Roman\\Roman.csproj": {
+              "projectPath": "C:\\Users\\ELAHE\\source\\repos\\WebApplication2\\Roman\\Roman.csproj"
+            },
+            "C:\\Users\\ELAHE\\source\\repos\\WebApplication2\\StringCalculator\\StringCalculator.csproj": {
+              "projectPath": "C:\\Users\\ELAHE\\source\\repos\\WebApplication2\\StringCalculator\\StringCalculator.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

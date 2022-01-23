@@ -1,0 +1,10 @@
+C:\Users\ELAHE\source\repos\WebApplication2\UnusualSpending\bin\Debug\netcoreapp3.1\UnusualSpending.deps.json
+C:\Users\ELAHE\source\repos\WebApplication2\UnusualSpending\bin\Debug\netcoreapp3.1\UnusualSpending.dll
+C:\Users\ELAHE\source\repos\WebApplication2\UnusualSpending\bin\Debug\netcoreapp3.1\UnusualSpending.pdb
+C:\Users\ELAHE\source\repos\WebApplication2\UnusualSpending\obj\Debug\netcoreapp3.1\UnusualSpending.csproj.AssemblyReference.cache
+C:\Users\ELAHE\source\repos\WebApplication2\UnusualSpending\obj\Debug\netcoreapp3.1\UnusualSpending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELAHE\source\repos\WebApplication2\UnusualSpending\obj\Debug\netcoreapp3.1\UnusualSpending.AssemblyInfoInputs.cache
+C:\Users\ELAHE\source\repos\WebApplication2\UnusualSpending\obj\Debug\netcoreapp3.1\UnusualSpending.AssemblyInfo.cs
+C:\Users\ELAHE\source\repos\WebApplication2\UnusualSpending\obj\Debug\netcoreapp3.1\UnusualSpending.csproj.CoreCompileInputs.cache
+C:\Users\ELAHE\source\repos\WebApplication2\UnusualSpending\obj\Debug\netcoreapp3.1\UnusualSpending.dll
+C:\Users\ELAHE\source\repos\WebApplication2\UnusualSpending\obj\Debug\netcoreapp3.1\UnusualSpending.pdb
